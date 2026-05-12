@@ -8,7 +8,7 @@ Mark tasks as done
 Saves data in local storage  
 ## How it works
 
-This app uses an array called allTodos to store tasks.
+This app uses an array to store tasks.
 When you submit a task using the add button, JavaScript updates the array and renders a new row on the page.
 
 Each row contains:
