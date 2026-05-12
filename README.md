@@ -23,7 +23,7 @@ Live site
 
 https://kelotodoapp.netlify.app/
 
-Demo
-
 https://github.com/user-attachments/assets/244dd45c-552a-4eee-8cce-806eabc6baf0
-<img src="https://t.bkit.co/w_6a0398c6c34ee.gif" />
+
+
+
