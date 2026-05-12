@@ -2,10 +2,11 @@
 ## Built with html,css,javascript.
 
 ## Features
--Add tasks
--Remove tasks
--Mark tasks as done
--Saves data in local storage
+-Add tasks  
+-Remove tasks  
+-Mark tasks as done  
+-Saves data in local storage  
+
 
 
 ## How it works
